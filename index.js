@@ -31,6 +31,7 @@ function sayHiToGrandma(string)
  if(string === uppercase)
   {
     var sheCanHear = 'YES INDEED!'
+    return sheCanHear
   }
 }
 
