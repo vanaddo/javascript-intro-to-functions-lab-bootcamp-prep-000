@@ -22,6 +22,7 @@ function sayHiToGrandma(string)
 {
   var uppercase = string.toUpperCase()
   var lowercase = string.toLowerCase()
+  var luvU  = 'I love you, Grandma'
   
   if(string === lowercase)
   {
@@ -33,5 +34,7 @@ function sayHiToGrandma(string)
     var sheCanHear = 'YES INDEED!'
     return sheCanHear
   }
+  if(string === luvU)
+  {
 }
 
