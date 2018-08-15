@@ -22,7 +22,7 @@ function sayHiToGrandma(string)
 {
   var uppercase = string.toUpperCase()
   var lowercase = string.toLowerCase()
-  var luvU  = 'I love you, Grandma'
+  var luvU  = "I love you, Grandma."
   
   if(string === lowercase)
   {
