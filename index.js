@@ -25,7 +25,7 @@ function sayHiToGrandma(string)
     var deaf = "I can't hear you!"
     return deaf
   }
-  else
+ if(string == string.toUpperCase())
   {
     var sheCanHear = 'YES INDEED!'
   }
