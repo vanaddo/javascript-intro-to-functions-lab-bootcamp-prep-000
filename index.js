@@ -27,7 +27,7 @@ function sayHiToGrandma(string)
   }
   else
   {
-    var sheCanHear = 'YES INDEED'
+    var sheCanHear = 'YES INDEED!'
   }
 }
 
