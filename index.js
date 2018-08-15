@@ -36,5 +36,7 @@ function sayHiToGrandma(string)
   }
   if(string === luvU)
   {
+    console.log('')
+  }
 }
 
