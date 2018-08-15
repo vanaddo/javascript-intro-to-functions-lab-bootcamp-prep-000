@@ -36,7 +36,7 @@ function sayHiToGrandma(string)
   }
   if(string === luvU)
   {
-    console.log('I love you, too.')
+    return 'I love you, too.'
   }
 }
 
